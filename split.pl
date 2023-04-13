@@ -2,7 +2,7 @@
 print "Content-Type: text/html; charset=utf-8\n\n";
 
 # Here character is comma(, )
-my $str = "Berna, the, Judean";
+my $str = "Banana, Maçã, Melancia";
 
 # using split() function
 my @spl = split("," , $str);
